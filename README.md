@@ -1,3 +1,9 @@
+# UPDATE: BetterMotherFucking CTF
+
+A single image is worth more than a thousand ~~bytes~~ words:
+
+![bettermotherfuckingctf demo](screenshot.png)
+
 # MotherFucking CTF
 
 What do we say to JavaScript? Not today! [motherfuckingwebsite.com](https://motherfuckingwebsite.com/) inspired CTF platform.
